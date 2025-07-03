@@ -1,5 +1,5 @@
 # NotesApplication
-Notes Application
+
 Feature Overview:
 1. Create a Note
     * Users should be able to create a note with the following fields:
@@ -24,15 +24,13 @@ Technical Stack:
 
 Functional Requirements:
 1. Frontend
-    * create login/register form (Optional for junior position)
     * Notes list page which cover all of this Create, read, update, and delete (CRUD) operation.
     * Simple filtering and sorting functionality
     * Search
     * Responsive design using TailwindCss
-    * Perform basic API integrations using Axios or Fetch
+    * Perform basic API integrations using Axios
     * State management
 2. Backend
-    * Authentication & Authorization (Optional for junior position)
     * Create, read, update, and delete (CRUD) notes
     * user can only read, update and delete their own notes
     * using Dapper for ORM with a SQL Server database
